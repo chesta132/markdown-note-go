@@ -43,7 +43,7 @@ markdown-note/
 
 ```bash
 # Clone repository
-git clone https://github.com/chesta132/markdown-note-go
+git clone https://github.com/chesta132/markdown-note-go.git
 cd markdown-note-go
 ```
 
@@ -322,3 +322,4 @@ const (
 ---
 
 **Challenge from:** [roadmap.sh/projects/url-shortening-service](https://roadmap.sh/projects/url-shortening-service)
+
